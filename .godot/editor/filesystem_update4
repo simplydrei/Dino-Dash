@@ -1,0 +1,12 @@
+res://Scenes/bg.tscn
+res://Scenes/main.gd
+res://Scenes/dino.tscn
+res://Scenes/ground.tscn
+res://Scenes/main.tscn
+res://Scenes/Obstacles/stump.tscn
+res://Scenes/Obstacles/stone_1.tscn
+res://Scenes/Obstacles/barrel.tscn
+res://Scenes/Obstacles/bird.tscn
+res://Scenes/hud.tscn
+res://Scenes/Obstacles/bird.gd
+res://Scenes/gameover.tscn
